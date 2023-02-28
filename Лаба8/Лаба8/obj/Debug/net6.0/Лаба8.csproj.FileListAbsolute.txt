@@ -1,0 +1,15 @@
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\bin\Debug\net6.0\Лаба8.exe
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\bin\Debug\net6.0\Лаба8.deps.json
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\bin\Debug\net6.0\Лаба8.runtimeconfig.json
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\bin\Debug\net6.0\Лаба8.dll
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\bin\Debug\net6.0\Лаба8.pdb
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.dll
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\refint\Лаба8.dll
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.pdb
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\Лаба8.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\Лаба8\Лаба8\obj\Debug\net6.0\ref\Лаба8.dll
