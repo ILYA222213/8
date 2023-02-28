@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tut
 {
-    public class Magazin : Tuu
+    public class Magazin : Tut
     {
         public Magazin(string name, string adres, string amount_of_workers, string slogan): base(name, adres, amount_of_workers, slogan) { }
 
